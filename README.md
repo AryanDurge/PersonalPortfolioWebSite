@@ -1,16 +1,10 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built using React and Nextjs ]()
 
 ---
 
 # Developer Portfolio
-
-#### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
 
@@ -18,7 +12,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here]().
 
 ---
 
@@ -115,22 +109,23 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
+  name: "ARYAN DURGE", // Your name
+  profile: "/profile.png", // Path to your profile picture
+  designation: "Software Developer Intern", // Your job title or designation
+  description: "I am Aryan Durge, a passionate software developer with expertise in creating intuitive and dynamic applications.", // A short bio or description about you
+  email: "aryandurge@example.com", // Your email address
+  phone: "+91 93923 04794", // Your phone number
+  address: "Hyderabad, India", // Your address (optional)
+  github: "https://github.com/ArynaDurge", // Link to your GitHub profile
+  facebook: "https://facebook.com/yourfacebookprofile", // Link to your Facebook profile
+  linkedIn: "https://linkedin.com/in/aryandurge", // Link to your LinkedIn profile
+  twitter: "https://X.com/AryanDurge", // Link to your Twitter profile
+  stackOverflow: "https://stackoverflow.com/users/yourstackid", // Link to your Stack Overflow profile
+  leetcode: "https://leetcode.com/aryandurge", // Link to your LeetCode profile
+  devUsername: "Aryan Durge", // Your dev.to username for fetching blogs (if applicable)
+  resume: "", // Path or URL to your resume
 };
+
 ```
 
 `devUsername` is used for fetching blog posts from `dev.to`.
